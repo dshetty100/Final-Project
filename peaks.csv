@@ -1,0 +1,469 @@
+peak_id,peak_name,height_metres,climbing_status,first_ascent_year,first_ascent_country,first_ascent_expedition_id
+AMAD,Ama Dablam,6814,Climbed,1961,"New Zealand, USA, UK",AMAD61101
+AMPG,Amphu Gyabjen,5630,Climbed,1953,UK,AMPG53101
+ANN1,Annapurna I,8091,Climbed,1950,France,ANN150101
+ANN2,Annapurna II,7937,Climbed,1960,"UK, Nepal",ANN260101
+ANN3,Annapurna III,7555,Climbed,1961,India,ANN361101
+ANN4,Annapurna IV,7525,Climbed,1955,W Germany,ANN455101
+ANNE,Annapurna I East,8026,Climbed,1974,Spain,ANNE74101
+ANNM,Annapurna I Middle,8051,Climbed,1980,W Germany,ANNM80301
+ANNS,Annapurna South,7219,Climbed,1964,"Japan, Nepal",ANNS64301
+APIM,Api Main,7132,Climbed,1960,"Japan, Nepal",APIM60101
+APIW,Api West,7076,Unclimbed,NA,NA,NA
+BARU,Baruntse,7152,Climbed,1954,New Zealand,BARU54101
+BAUD,Baudha,6672,Climbed,1970,Japan,BAUD70101
+BHEM,Bhemdang Ri,6150,Climbed,1964,"Japan, Nepal",BHEM64101
+BHRI,Bhrikuti,6476,Climbed,1982,"Japan, Nepal",BHRI82101
+BOBA,Bobaye,6808,Climbed,1996,Slovenia,BOBA96301
+CHAM,Chamlang,7321,Climbed,1962,"Japan, Nepal",CHAM62101
+CHAN,Changla,6563,Climbed,2010,Japan,CHAN10301
+CHMN,Chamar North,7165,Climbed,1953,"New Zealand, Nepal",CHMN53101
+CHEO,Cheo Himal,6820,Climbed,1991,"Japan, Nepal",CHEO91301
+CHOY,Cho Oyu,8188,Climbed,1954,"Austria, Nepal",CHOY54301
+CHOB,Chobuje,6686,Climbed,1972,W Germany,CHOB72101
+CHOL,Cholatse,6423,Climbed,1982,"USA, UK",CHOL82101
+CHOP,Cho Polu,6700,Climbed,1984,Spain,CHOP84301
+CHUL,Chulu Central,6584,Climbed,1955,W Germany,CHUL55201
+CHUG,Chukyima Go,6258,Climbed,2014,Slovenia,CHUG14301
+CHUR,Churen Himal Central,7385,Climbed,1970,Japan,CHUR70301
+CHUW,Chulu West,6419,Climbed,1952,Japan,CHUW52301
+TAPL,Taple Shikhar,6447,Climbed,1998,"Japan, Nepal",TAPL98301
+CTSE,Changtse,7583,Climbed,1982,W Germany,CTSE82301
+DHA1,Dhaulagiri I,8167,Climbed,1960,"Switzerland, Austria, W Germany, Nepal",DHA160101
+DHA2,Dhaulagiri II,7751,Climbed,1971,"Austria, USA, Nepal",DHA271101
+DHA3,Dhaulagiri III,7715,Climbed,1973,W Germany,DHA373301
+DHA4,Dhaulagiri IV,7661,Climbed,1975,Japan,DHA475101
+DHA5,Dhaulagiri V,7618,Climbed,1975,"Japan, Nepal",DHA575101
+DHA6,Dhaulagiri VI,7268,Climbed,1970,Japan,DHA670101
+DHAM,Dhampus,6012,Climbed,1960,Austria,DHAM60101
+DOGA,Dogari,6536,Unclimbed,NA,NA,NA
+PEMK,Pemthang Karpo Ri,6865,Climbed,1955,"Switzerland, Nepal",PEMK55101
+DORJ,Dorje Lhakpa,6966,Climbed,1981,"Japan, Nepal",DORJ81301
+DRAN,Drangnag Ri,6757,Climbed,1995,"Norway, UK, Nepal",DRAN95101
+DROM,Drohmo,6881,Unclimbed,NA,NA,NA
+EVER,Everest,8850,Climbed,1953,"New Zealand, India",EVER53101
+FANG,Fang,7647,Climbed,1980,"Austria, Nepal",FANG80101
+FIRN,Firnkopf,6730,Unclimbed,NA,NA,NA
+FIRW,Firnkopf West,6745,Climbed,1987,"Austria, W Germany, Nepal",FIRW87301
+GAMA,Gama Peak,7187,Climbed,1970,Japan,GAMA70301
+GAN1,Ganesh I,7422,Climbed,1955,"Switzerland, France",GAN155301
+GAN3,Ganesh III,7043,Climbed,1979,"Japan, Nepal",GAN379301
+GAN2,Ganesh II,7118,Climbed,1981,"W Germany, Nepal",GAN281302
+GAN4,Ganesh IV,7104,Climbed,1978,"Japan, Nepal",GAN478301
+GAN5,Ganesh V,6770,Climbed,1980,"Japan, Nepal",GAN580101
+GAN6,Ganesh VI,6908,Climbed,2000,Japan,GAN600101
+GANC,Ganchenpo,6378,Climbed,1971,USA,GANC71302
+GAND,Gandharva Chuli,6248,Climbed,2013,Romania,GAND13101
+GANG,Gangapurna,7455,Climbed,1965,"W Germany, Nepal",GANG65101
+GAUR,Gaurishankar,7135,Climbed,1979,"US, Nepal",GAUR79101
+GHUN,Ghustang North,6529,Climbed,1962,"UK, Nepal",GHUN62301
+GHUS,Ghustang South,6465,Climbed,2019,"France, Canada, Switzerland, Nepal",GHUS18301
+MATA,Matathumba,5767,Climbed,1961,"UK, Nepal",MATA61101
+GHYM,Ghyuthumba Main,5806,Climbed,1953,"Austria, Nepal, India",GHYM53301
+GIME,Gimmigela Chuli East,7007,Climbed,1993,"Japan, Nepal",GIME93301
+GIMM,Gimmigela Chuli,7350,Climbed,1994,"Japan, Nepal",GIMM94301
+GLAC,Glacier Dome,7168,Climbed,1964,"Japan, Nepal",GLAC64301
+GURJ,Gurja Himal,7193,Climbed,1969,"Japan, Nepal",GURJ69301
+GURK,Gurkarpo Ri,6889,Climbed,2007,France,GURK07301
+GYAC,Gyachung Kang,7861,Climbed,1964,"Japan, Nepal",GYAC64101
+GYAJ,Gyajikang,7074,Climbed,1994,"Japan, Nepal",GYAJ94301
+LEOE,Leonpo Gang East,6733,Climbed,1955,"UK, Nepal",LEOE55101
+HIME,Himalchuli East,7893,Climbed,1960,Japan,HIME60101
+HIML,Himlung Himal,7126,Climbed,1992,"Japan, Nepal",HIML92301
+HIMN,Himalchuli North,7331,Climbed,1985,"S Korea, Nepal",HIMN85302
+RANI,Rani Peak,6693,Climbed,1970,"Netherlands, Nepal",RANI70101
+HIMW,Himalchuli West,7540,Climbed,1978,Japan,HIMW78101
+HIUP,Hiunchuli,6434,Climbed,1971,USA,HIUP71301
+HNKU,Hongku Chuli,6833,Unclimbed,NA,NA,NA
+HONG,Hongde,6556,Climbed,1962,"Japan, Nepal",HONG62101
+IMJA,Imjatse,6165,Climbed,1956,"Switzerland, Nepal",IMJA56101
+JAGD,Jagdula,5761,Climbed,2013,France,JAGD13101
+JANU,Jannu,7711,Climbed,1962,"France, Nepal",JANU62101
+JETH,Jethi Bahurani,6850,Climbed,1978,Japan,JETH78101
+JONG,Jongsang,7462,Climbed,1930,"Germany, Austria",JONG30101
+JUNC,Junction Peak,7133,Unclimbed,NA,NA,NA
+KABD,Kabru Dome,6600,Climbed,1982,India,KABD82301
+KABN,Kabru North,7338,Climbed,1935,UK,KABN35301
+KAG1,Kagmara I,5978,Climbed,1962,"UK, Nepal",KAG162101
+KAN1,Kande Hiunchuli North  I,6521,Unclimbed,NA,NA,NA
+KAN2,Kande Hiunchuli North  II,6471,Climbed,1980,Switzerland,KAN280101
+KANB,Kangbachen,7902,Climbed,1974,Poland,KANB74101
+KANC,Kangchenjunga Central,8473,Climbed,1978,Poland,KANC78102
+KAND,Kande Hiunchuli,6627,Climbed,1972,Japan,KAND72301
+KANG,Kangchenjunga,8586,Climbed,1955,UK,KANG55101
+KANS,Kangchenjunga South,8476,Climbed,1978,Poland,KANS78101
+KARY,Karyolung,6530,Climbed,1982,"Japan, Nepal",KARY82301
+KCHN,Kangchung Nup,6043,Climbed,1953,"UK, New Zealand",KCHN53101
+NAYA,Naya Kanga,5863,Climbed,NA,NA,NA
+KGUR,Kang Guru,6981,Climbed,1955,W Germany,KGUR55201
+KHAT,Khatang,6790,Climbed,1982,"Japan, Nepal",KHAT82301
+KHON,Khongma Tse,5798,Climbed,NA,NA,NA
+KJER,Kanjeralwa,6612,Climbed,1973,"Japan, Nepal",KJER73101
+KJRN,Kanjiroba North,6858,Unclimbed,NA,NA,NA
+KJRS,Kanjiroba South,6883,Climbed,1970,Japan,KJRS70301
+KOTA,Kotang,6148,Climbed,1982,Inida,KOTA82301
+KTEG,Kangtega,6783,Climbed,1963,"New Zealand, USA",KTEG63101
+KTSU,Kangtsune,6444,Unclimbed,NA,NA,NA
+KUSU,Kusum Kanguru,6370,Climbed,1981,New Zealand,KUSU81302
+KWAN,Kwangde,6186,Climbed,1978,Japan,KWAN78301
+LAMJ,Lamjung Himal,6983,Climbed,1974,UK,LAMJ74101
+LANG,Langtang Lirung,7227,Climbed,1978,"Japan, Nepal",LANG78301
+LANR,Langtang Ri,7205,Climbed,1981,"Japan, Nepal",LANR81301
+LEON,Leonpo Gang,6979,Climbed,1962,Japan,LEON62101
+LHAS,Lha Shamma,6412,Climbed,1962,"UK, Nepal",LHAS62101
+LHOT,Lhotse,8516,Climbed,1956,Switzerland,LHOT56101
+MUKT,Mukut Himal,6087,Climbed,1967,Netherlands,MUKT67301
+LNPO,Langpo,6965,Climbed,1909,UK,LNPO09301
+LOBE,Lobuje East,6090,Climbed,1984,"USA, Nepal",LOBE84101
+LOBW,Lobuje West,6135,Climbed,1984,Japan,LOBW84301
+LSHR,Lhotse Shar,8382,Climbed,1970,Austria,LSHR70101
+LSIS,Langshisa Ri,6412,Climbed,1982,"Japan, Nepal",LSIS82101
+MACH,Machhapuchhare,6993,Unclimbed,NA,NA,NA
+BTAK,Bhairab Takura,6799,Climbed,1960,"Japan, Nepal",BTAK60101
+MAK2,Makalu II,7678,Climbed,1954,"UK, Nepal",MAK254301
+MAKA,Makalu,8485,Climbed,1955,France,MAKA55101
+MANA,Manaslu,8163,Climbed,1956,"Japan, Nepal",MANA56101
+MANN,Manaslu North,6994,Climbed,1964,"Netherlands, Austria, Nepal",MANN64301
+MANP,Manapathi,6380,Climbed,1956,"Argentina, Nepal",MANP56101
+MARD,Mardi Himal,5553,Climbed,1962,"UK, Nepal",MARD62101
+MERA,Mera Peak,6470,Climbed,1953,"UK, Nepal",MERA53101
+MING,Mingbo Ri,6207,Unclimbed,NA,NA,NA
+NALA,Nalakankar North,6062,Climbed,2000,"Japan, Nepal",NALA00201
+NAMP,Nampa,6729,Climbed,1972,Japan,NAMP72101
+NCHU,Nupchu,6172,Climbed,1962,Japan,SPH462101
+NEMJ,Nemjung,7140,Climbed,1983,"Japan, Nepal",NEMJ83301
+NEPA,Nepal Peak,7177,Climbed,1930,Austria,NEPA30101
+NGO2,Ngojumba Kang II,7743,Climbed,1965,"Japan, Nepal",NGO265101
+NGOJ,Ngojumba Kang I,7916,Climbed,1982,"S Korea, Nepal",NGOJ82302
+NILC,Nilgiri Central,6940,Climbed,1979,Japan,NILC79101
+NILN,Nilgiri North,7061,Climbed,1962,"Netherlands, France, Nepal",NILN62301
+NILS,Nilgiri South,6839,Climbed,1978,Japan,NILS78301
+NUMB,Numbur,6958,Climbed,1963,"Japan, Nepal",NUMB63101
+NUPT,Nuptse,7864,Climbed,1961,"UK, Nepal",NUPT61101
+OHMI,Ohmi Kangri,6839,Climbed,1985,Switzerland,OHMI85101
+OMBK,Ombak Himal,6300,Unclimbed,NA,NA,NA
+PALD,Paldor,5903,Climbed,1949,"UK, Nepal",PALD49201
+PANG,Pangbuk Ri,6625,Climbed,2011,USA,PANG11301
+PARC,Parchamo,6279,Climbed,1955,UK,PARC55101
+PATR,Patrasi Himal,6450,Unclimbed,NA,NA,NA
+PETH,Pethangtse,6739,Climbed,1954,"New Zealand, Nepal",PETH54101
+PHUR,Phurbi Chhyachu,6637,Climbed,1982,"Japan, Nepal",PHUR82101
+PIMU,Pimu,6344,Climbed,1955,UK,PIMU55101
+PISA,Pisang,6091,Climbed,1955,W Germany,PISA55201
+PK29,Peak 29,7871,Climbed,1979,Poland,PK2979101
+POIN,Pointed Peak,5850,Climbed,1953,UK,POIN53101
+POKA,Pokalde,5780,Climbed,1953,UK,POKA53101
+OMBG,Ombigaichen,6340,Climbed,1960,"New Zealand, Nepal",OMBG60301
+PUMO,Pumori,7138,Climbed,1962,"W Germany, Switzerland",PUMO62101
+PUTH,Putha Hiunchuli,7246,Climbed,1954,"UK, Nepal",PUTH54301
+PYRM,Pyramid Peak,7140,Climbed,1993,"Japan, India",PYRM93101
+RAKS,Raksha Urai,6609,Climbed,2003,"France, Nepal",RAKS03301
+RAMD,Ramdung,5900,Climbed,1952,"UK, Nepal",RAMD52301
+RATH,Rathong,6682,Climbed,1964,India,RATH64301
+ROCN,Roc Noir,7485,Climbed,1969,W Germany,ROCN69101
+ROKA,Rokapi,6468,Climbed,1977,UK,ROKA77301
+SAIE,Saipal East Humla,6925,Climbed,1990,"Switzerland, Nepal",SAIP90301
+SAIP,Saipal,7030,Climbed,1963,"Japan, Nepal",SAIP63301
+SHAR,Shartse,7591,Unclimbed,NA,NA,NA
+SHA2,Shartse II,7457,Climbed,1974,"Austria, W Germany",SHA274101
+SHEY,Shey Shikhar,6139,Climbed,2007,Japan,SHEY07201
+SING,Singu Chuli,6501,Climbed,1957,UK,SING57101
+SISN,Sisne Himal,5911,Climbed,2013,"Nepal, USA",SISN13101
+SITA,Sita Chuchura,6611,Climbed,1970,"Japan, Nepal",SITA70301
+SNOW,Snow Peak,6530,Unclimbed,NA,NA,NA
+SPHN,Sphinx,6825,Climbed,1936,UK,SPHN36101
+SPH1,Sharphu I,6433,Climbed,1963,Japan,SPH163301
+SURM,Surma-Sarovar North,6564,Unclimbed,NA,NA,NA
+TAWO,Tawoche,6495,Climbed,1974,France,TAWO74101
+KIRA,Kirat Chuli,7362,Climbed,1939,"Switzerland, Germany",KIRA39101
+THAM,Thamserku,6618,Climbed,1964,New Zealand,THAM64301
+THAR,Tharpu Chuli,5695,Climbed,1964,Japan,THAR64301
+TILI,Tilicho,7134,Climbed,1978,France,TILI78301
+TLNG,Talung,7349,Climbed,1964,"W Germany, Nepal",TLNG64101
+TONG,Tongu,6187,Climbed,1959,USA,TONG59301
+TRIP,Tripura Hiunchuli,6553,Climbed,1986,"Japan, Nepal",TRIP86301
+TSOK,Tso Karpo Kang,6556,Climbed,1971,Japan,TSOK71301
+TUKU,Tukuche,6920,Climbed,1970,Japan,TUKU70101
+URKM,Urkinmang,6143,Climbed,1964,"Japan, Nepal",URKM64101
+ANID,Anidesh Chuli,6808,Unclimbed,NA,NA,NA
+TSUR,Tsaurabong Peak,6395,Climbed,1974,"Japan, Nepal",TSUR74101
+YALU,Yalung Kang,8505,Climbed,1973,Japan,YALU73101
+PASA,Pasang Lhamu Chuli,7350,Climbed,1986,Japan,PASA86301
+RATC,Ratna Chuli,7035,Climbed,1996,"Japan, Nepal",RATC96301
+KANT,Kanti Himal,6850,Climbed,2002,"Japan, Nepal",KANT02301
+RAMT,Ramtang,6601,Climbed,1930,"Austria, UK",RAMT30101
+LING,Lingtren,6713,Climbed,1935,UK,LING35201
+TENG,Tengkoma,6215,Climbed,1949,"Switzerland, Nepal",TENG49101
+RAMC,Ramtang Chang,6802,Climbed,1974,Yugoslavia,RAMC74301
+CHRE,Churen Himal East,7371,Climbed,1970,"S Korea, Nepal",CHRE70101
+CHRW,Churen Himal West,7371,Climbed,1970,"Japan, Nepal",CHRW70301
+CHRI,Chhukung Ri,5550,Climbed,1965,Netherlands,CHRI65101
+KTOK,Kangtokal,6294,Climbed,1962,"Japan, Nepal",KTOK62101
+SRKU,Serku Dolma,6227,Climbed,1973,"Japan, Nepal",SRKU73301
+NALS,Nalakankar South,6024,Climbed,2000,"Japan, Nepal",NALS00201
+CHWT,Changwathang,6130,Climbed,2000,"Japan, Nepal",CHWT00201
+TAKP,Takphu Himal,6395,Climbed,2018,"UK, Germany",TAKP18301
+MALA,Malanphulan,6573,Climbed,2000,USA,MALA00101
+LHOM,Lhotse Middle,8410,Climbed,2001,Russia,LHOM01101
+SIMN,Simnang Himal,6251,Climbed,2001,Ukraine,SIMN01101
+HCHI,Hungchhi,7029,Climbed,2003,"Japan, Nepal",HCHI03102
+LAMP,Lampo,6648,Unclimbed,NA,NA,NA
+CHUK,Chhukung Tse,5833,Climbed,1953,"UK, Nepal",CHUK53101
+DZAN,Dzanye,6581,Climbed,1949,Switzerland,DZAN49101
+GAUG,Gaugiri,6110,Climbed,2002,USA,GAUG02101
+TKPO,Tengkangpoche,6482,Climbed,1984,"UK, USA",TKPO84301
+ARNK,Arniko Chuli,6034,Climbed,2002,"Japan, Nepal",ARNK02201
+SARI,Saribung,6328,Climbed,2003,USA,SARI03301
+GHEN,Ghenge Liru,6596,Climbed,1963,"UK, Nepal",GHEN63101
+NAUL,Naulekh,6340,Climbed,1954,New Zealand,NAUL54101
+CHEK,Chekigo,6121,Climbed,2005,"UK, Switzerland",CHEK05101
+KTUN,Khatung Khang,6484,Climbed,1956,Switzerland,KTUN56101
+CHAG,Chago,6893,Climbed,1954,"New Zealand, Nepal",CHAG54101
+NUMR,Numri,6635,Climbed,2002,Germany,NUMR02301
+PK41,Peak 41,6648,Climbed,2002,Slovenia,PK4102301
+KYAZ,Kyazo Ri,6151,Climbed,2002,"UK, France",KYAZ02301
+PAND,Pandra,6670,Climbed,2002,Denmark,PAND02301
+DANG,Danga,6220,Climbed,2002,Denmark,DANG02301
+POKR,Pokharkang,6372,Climbed,2002,"UK, Nepal",POKR02301
+NAG1,Nangpai Gosum I,7321,Climbed,2017,Germany,NAG117301
+KGRI,Khangri Shar,6792,Unclimbed,NA,NA,NA
+KGRW,Khangri West,6658,Unclimbed,NA,NA,NA
+PURB,Purbung Himal,6500,Unclimbed,NA,NA,NA
+TASH,Tashi Kang,6386,Climbed,2002,"Japan, Nepal",TASH02201
+TENR,Tengi Ragi Tau,6938,Climbed,2002,"Japan, Nepal",TENR02401
+KYAS,Kyashar,6770,Climbed,2003,"UK, Austria, Swiss",KYAS03301
+NREK,Nirekha,6159,Climbed,NA,NA,NA
+NORB,Norbu Kang,6085,Climbed,2003,"Japan, Nepal",NORB03201
+LNKE,Lunchhung Kamo East,6024,Climbed,1999,"Japan, Nepal",LNKE99201
+LIK1,Linkhu Chuli Shar,6719,Climbed,2013,Germany,LIK113301
+LIK2,Linkhu Chuli Nup,6659,Climbed,1960,"France, Nepal",LIK260301
+PANT,Panalotapa,6687,Climbed,1955,UK,PANT55101
+SHAL,Shalbachum,6707,Climbed,1959,"Japan, Nepal",SHAL59301
+KHUM,Khumbutse,6639,Unclimbed,NA,NA,NA
+BOKT,Boktoh,6114,Climbed,1991,Yugoslavia,BOKT91101
+MOJC,Mojca,6024,Climbed,1974,Yugoslavia,MOJC74301
+PLNG,Palung,7012,Climbed,1952,New Zealand,PLNG52101
+TUTS,Tutse,6758,Unclimbed,NA,NA,NA
+NUPE,Nuptse East I,7795,Climbed,2003,Russia,NUPE03301
+AMOT,Amotsang,6393,Unclimbed,NA,NA,NA
+YANS,Yansa Tsenji,6567,Unclimbed,NA,NA,NA
+HIMJ,Himjung,7092,Climbed,2012,S Korea,HIMJ12301
+AMPH,Amphu I,6740,Climbed,2013,S Korea,AMPH13301
+CHAB,Chabuk,6792,Unclimbed,NA,NA,NA
+CHAK,Chako,6704,Climbed,2007,"Japan, Nepal",CHAK07201
+DOMK,Dome Kang,7264,Climbed,2009,"Spain, Nepal",DOMK09101
+GHAN,Ghhanyala Hies,6744,Unclimbed,NA,NA,NA
+HUNK,Hunku,6119,Climbed,2012,UK,HUNK12302
+JANK,Janak Chuli,7041,Climbed,2006,Slovenia,JANK06101
+KABS,Kabru South,7318,Climbed,1994,India,KABS94101
+KABR,Kabru Main,7412,Climbed,1994,India,KABR94101
+LASH,Lashar I,6842,Climbed,2005,Slovenia,LASH05301
+LAS2,Lashar II,6803,Unclimbed,NA,NA,NA
+NAG2,Nangpai Gosum II,7287,Unclimbed,NA,NA,NA
+NANG,Nangamari I,6547,Climbed,2010,Australia,NANG10301
+PANB,Panbari,6905,Climbed,2006,Japan,PANB06301
+PHNH,Phungi Himal,6538,Climbed,2017,Russia,PHNH17301
+MARI,Mariyang,6528,Unclimbed,NA,NA,NA
+TKRG,Takargo,6771,Climbed,2010,USA,TKRG10101
+THUL,Thulagi,7059,Climbed,2015,Russia,THUL15301
+JOMS,Jomsom Himal,6335,Climbed,2003,"France, Nepal",JOMS03301
+BAMO,Bamongo,6406,Climbed,2013,"Nepal, China",BAMO13301
+CHAW,Chaw Peak,6404,Unclimbed,NA,NA,NA
+DING,Dingjung North,6249,Climbed,1955,UK,DING55101
+KNAG,Kang Nagchugo,6737,Climbed,2008,USA,KNAG08301
+KBON,Konabon,6570,Unclimbed,NA,NA,NA
+KHAM,Khamjung,6759,Climbed,1982,Japan,NA
+KYR1,Kyungka Ri 1,6599,Climbed,2017,S Korea,KYR117301
+KYR2,Kyungka Ri 2,6506,Unclimbed,NA,NA,NA
+KOJI,Kojichuwa Chuli,6439,Climbed,2010,Japan,KOJI10101
+CHIV,Chhiv Himal,6650,Climbed,2004,Japan,CHIV04301
+LMOC,Langmoche Ri,6552,Climbed,2012,USA,LMOC12301
+LCHA,Lachama Chuli,6721,Climbed,2007,Japan,LCHA07301
+PAN1,Panpoche 1,6620,Unclimbed,NA,NA,NA
+PAN2,Panpoche 2,6504,Unclimbed,NA,NA,NA
+PHOL,Phole,6645,Unclimbed,NA,NA,NA
+PHUK,Phu Kang,6694,Unclimbed,NA,NA,NA
+LNGK,Langchung Khang,6786,Unclimbed,NA,NA,NA
+PK04,Peak 4,6736,Unclimbed,NA,NA,NA
+NAM2,Nampa II,6585,Unclimbed,NA,NA,NA
+NAM3,Nampa III,6611,Unclimbed,NA,NA,NA
+NAMS,Nampa South,6130,Unclimbed,NA,NA,NA
+SOBI,Sobithongie,6652,Unclimbed,NA,NA,NA
+SHER,Shershon,6432,Unclimbed,NA,NA,NA
+SWAK,Swaksa Kang,6405,Unclimbed,NA,NA,NA
+TILJ,Tilje,6530,Unclimbed,NA,NA,NA
+TSAR,Tsartse,6343,Climbed,2018,"Japan, Nepal",TSAR18301
+YAKA,Yakawa Kang,6482,Climbed,2010,"Japan, Nepal",YAKA10301
+YAUP,Yaupa,6422,Climbed,1989,"UK, USA",YAUP89301
+TILK,Til Kang,6369,Climbed,2018,UK,TILK18301
+YOKO,Yokopahar,6423,Unclimbed,NA,NA,NA
+SALW,Saldim West,6388,Climbed,2016,Romania,SALW16301
+SAMD,Samdo,6335,Climbed,2009,Japan,SAMD09302
+PURK,Purkhung,6126,Climbed,2004,Japan,PURK04201
+DZAS,Dzasampatse,6295,Climbed,2004,Slovenia,DZAS04301
+SWEL,Swelokhan,6180,Unclimbed,NA,NA,NA
+MUPK,Mustang Peak,6229,Climbed,2001,"Japan, Nepal",MUPK01301
+JING,Jinjang,6111,Climbed,NA,NA,NA
+JOBO,Jobo Rinjang,6778,Climbed,2009,USA,JOBO09101
+KYAB,Kyabura,6294,Unclimbed,NA,NA,NA
+KUML,Kumlung,6355,Climbed,2008,France,KUML08301
+DGAR,Dhaulagari,6638,Unclimbed,NA,NA,NA
+LHAY,Lhayul Peak,6395,Unclimbed,NA,NA,NA
+MERR,Merra,6334,Climbed,2006,Denmark,MERR06301
+PBUK,Pabuk Kang,6244,Unclimbed,NA,NA,NA
+YANK,Yanme Kang,6206,Climbed,2017,France,YANK17301
+DANS,Danphe Shail,6103,Climbed,2017,"France, Nepal",DANS17301
+GAN7,Ganesh VII,6350,Unclimbed,NA,NA,NA
+PHAR,Pharilapcha,6017,Climbed,2003,Nepal,PHAR03101
+THOR,Thorong Peak,6144,Climbed,2007,"Japan, Nepal",THOR07301
+CHKA,Chamar Kang,6060,Climbed,2007,"Japan, Nepal",CHKA07301
+NUPK,Nupche Kang,6576,Climbed,1964,"W Germany, Nepal",NUPK64101
+PUCH,Punchen Himal,6049,Unclimbed,NA,NA,NA
+KAKU,Kang Kuru,6344,Climbed,2008,USA,KAKU08101
+AMPM,Amphu Middle,6202,Climbed,2008,Germany,AMPM08101
+LUGU,Lugula,6899,Climbed,2010,France,LUGU10301
+BHRS,Bhrikuti Shail,6361,Climbed,2005,"France, Nepal",BHRS05101
+MYAG,Myagdi Matha,6273,Unclimbed,NA,NA,NA
+TOBS,Tobsar,6065,Climbed,2017,Nepal,TOBS17301
+DINS,Dingjung Ri,6196,Climbed,2008,Japan,DINS08101
+DUDH,Dudh Kundali,6045,Climbed,1953,"Austria, Nepal, India",DUDH53301
+KAGA,Kanta Gaton,5910,Climbed,2009,"France, Nepal",KAGA09201
+KAPT,Kaptang,5965,Climbed,2009,"Japan, Nepal",KAPT09201
+ROMA,Roma,5407,Unclimbed,NA,NA,NA
+RIPI,Ripimo Shar,6647,Climbed,1952,UK,RIPI52101
+TSIS,Tsisima,6196,Climbed,1963,"Japan, Nepal",TSIS63101
+TAWA,Tawa,6110,Climbed,2010,"Japan, Nepal",TAWA10301
+URMA,Urkema,5890,Climbed,2007,"Taiwan, S Korea, Singapore, Australia, Nepal",URMA07301
+MPNW,Manapathi NW,6384,Climbed,1977,"Italy, UK, W Germany",MPNW77101
+LUNR,Lunag Ri,6895,Unclimbed,NA,NA,NA
+JASG,Jasemba Goth,6730,Climbed,1964,W Germany,JASG64101
+GOJN,Gojung,6310,Climbed,2011,UK,GOJN11301
+NAN2,Nangamari II,6209,Climbed,2016,Japan,NAN216301
+DRAG,Dragmorpa Ri,6185,Climbed,2013,Russia,DRAG13101
+SYKG,Syaokang,5929,Climbed,2012,New Zealand,SYKG12301
+BIJO,Bijora Hiunchuli,6111,Unclimbed,NA,NA,NA
+CHUB,Chhuboche,5606,Climbed,2013,UK,CHUB13301
+LUNW,Lunag West,6492,Climbed,2013,USA,LUNW13301
+DOMO,Domo,7447,Climbed,1930,"Germany, Nepal",DOMO30101
+LUN2,Lunag II,6812,Climbed,2010,France,LUN210301
+TRIA,Triangle Peak,6484,Climbed,2013,France,TRIA13301
+KASI,Kasi Dalpha,6386,Unclimbed,NA,NA,NA
+NPHU,Narphu,5921,Climbed,2014,"UK, Nepal",NPHU14301
+POTA,Pota Himal North,6182,Climbed,2008,France,POTA08101
+PANN,Pangbuk North,6478,Climbed,2013,USA,PANN13301
+MUST,Mustang Himal,6195,Climbed,2014,USA,MUST14301
+MNSL,Mansail,6235,Climbed,2014,Japan,MNSL14301
+CPHU,Chhochenphu Himal,6260,Unclimbed,NA,NA,NA
+TANK,Tankya I,6305,Unclimbed,NA,NA,NA
+GORK,Gorakh Khang,6254,Unclimbed,NA,NA,NA
+RAUN,Raungsiyar,6224,Climbed,2015,Nepal,RAUN15301
+LDAK,Langdak,6220,Climbed,2015,Nepal,LDAK15301
+TKRE,Takargo East,6152,Climbed,2015,Nepal,TKRE15301
+OMIT,Omitso Go,6332,Unclimbed,NA,NA,NA
+CBAM,Chhopa Bamare,6109,Climbed,2019,"USA, France",CBAM18401
+YALW,Yalung Kang West,8077,Unclimbed,NA,NA,NA
+KANN,Kangchenjunga North,7938,Unclimbed,NA,NA,NA
+KBNE,Kangbachen East,7780,Unclimbed,NA,NA,NA
+HERZ,Herzog Peak,7555,Climbed,NA,NA,NA
+GANW,Gangapurna West,7140,Unclimbed,NA,NA,NA
+CHMR,Chamar,7161,Unclimbed,NA,NA,NA
+NGAP,Nepal Gap Peak,7007,Unclimbed,NA,NA,NA
+GAUS,Gaurishankar South,7010,Climbed,1979,UK,GAUS79301
+BURK,Burke Kang,6942,Climbed,2017,"Ireland, Nepal",BURK17301
+HMLE,Himlung East,6932,Climbed,2017,"France, Nepal",HMLE17101
+YNGS,Yangra Kangri South,6863,Unclimbed,NA,NA,NA
+NUPL,Nup La Kang,6861,Climbed,2018,"USA, Norway",NUPL18301
+CHUM,Chumbu,6859,Unclimbed,NA,NA,NA
+PHUG,Phu Kang Go,6767,Climbed,2011,"France, Belgium",PHUG11301
+GURA,Guras,6744,Unclimbed,NA,NA,NA
+THRK,Tharke Kang,6710,Climbed,2017,"USA, Nepal",THRK17301
+HUGO,Hulang Go,6687,Unclimbed,NA,NA,NA
+SHNW,Shershon Northwest,6682,Climbed,1980,"UK, France",SHNW80301
+AGLE,Agole East,6675,Unclimbed,NA,NA,NA
+ROLK,Rolwaling Kang,6664,Climbed,2016,Japan,ROLK16301
+YARW,Yarwa,6644,Unclimbed,NA,NA,NA
+YANG,Yangri,6535,Unclimbed,NA,NA,NA
+LCHN,Lachama North,6628,Unclimbed,NA,NA,NA
+CHNG,Changdi,6623,Unclimbed,NA,NA,NA
+GOLD,Goldum Peak,6632,Unclimbed,NA,NA,NA
+THOC,Thoche Go,6602,Unclimbed,NA,NA,NA
+KCHS,Kangchung Shar,6063,Climbed,1984,Yugoslavia,KCHS84301
+PHUN,Phu Kang North,6580,Unclimbed,NA,NA,NA
+PTHE,Pethangtse East,6572,Climbed,2008,UK,PTHE08101
+PHNG,Phungi,6524,Unclimbed,NA,NA,NA
+KNTE,Kanti Himal East,6516,Unclimbed,NA,NA,NA
+JARK,Jarkya,6473,Unclimbed,NA,NA,NA
+MARW,Mariyang West,6455,Unclimbed,NA,NA,NA
+MAYT,Mayonthang Kang,6449,Unclimbed,NA,NA,NA
+LNJU,Langju,6426,Climbed,2017,Japan,LNJU17301
+JYAC,Jyachhung,6338,Unclimbed,NA,NA,NA
+GYLA,Gyala,6363,Unclimbed,NA,NA,NA
+DOLM,Dolma Khang,6332,Climbed,1980,"Australia, Nepal",DOLM80101
+KAIP,Kaipuchonam,6329,Unclimbed,NA,NA,NA
+LDNG,Langdung,6326,Climbed,2017,Nepal,LDNG17401
+DZA2,Dzanye II,6318,Climbed,2015,Japan,DZA215301
+PAMA,Pama Himal,6300,Unclimbed,NA,NA,NA
+PERH,Peri Himal,6296,Unclimbed,NA,NA,NA
+TAKL,Takla Kang,6276,Unclimbed,NA,NA,NA
+KOGI,Kogi Khang North,6275,Unclimbed,NA,NA,NA
+ASAJ,Asajya Tuppa,6265,Unclimbed,NA,NA,NA
+KOJS,Kojichuwa South,6264,Unclimbed,NA,NA,NA
+PKAR,Pankar Himal,6264,Climbed,2018,Japan,PKAR18101
+SAUL,Saula,6235,Unclimbed,NA,NA,NA
+YARA,Yala Chuli,6236,Unclimbed,NA,NA,NA
+RHIM,Rhimbu,6210,Unclimbed,NA,NA,NA
+SANC,Sanctuary Peak,6207,Unclimbed,NA,NA,NA
+LASA,Lasa,6189,Unclimbed,NA,NA,NA
+PERI,Peri,6174,Climbed,2016,"Italy, Nepal",PERI16301
+DWIJ,Dwijen Himal,6169,Unclimbed,NA,NA,NA
+JABR,Jabou Ri,6166,Climbed,2015,USA,JABR15301
+BEDG,Beding Go,6125,Climbed,2015,"Nepal, Canada, Brazil, Ireland",BEDG15301
+TAKN,Takphu North,6142,Climbed,2016,"Germany, Nepal",TAKN16301
+BHUL,Bhulu Lhasa,6102,Climbed,1964,"UK, Nepal",BHUL64301
+LNAK,Lhonak,6070,Unclimbed,NA,NA,NA
+ROLM,Rolmi,6056,Climbed,2017,Nepal,ROLM17301
+ACHN,Aichyn,6055,Climbed,2015,Japan,ACHN15301
+ARDN,Ardang,6034,Unclimbed,NA,NA,NA
+LUNG,Lungchhung,6043,Unclimbed,NA,NA,NA
+KHNG,Khung,6024,Unclimbed,NA,NA,NA
+CHND,Chandi Himal,6142,Unclimbed,NA,NA,NA
+KALI,Kali Himal,6985,Climbed,1983,Netherlands,KALI83101
+DHEC,Dhechyan Khang,6019,Climbed,2018,"Austria, Germany, Nepal",DHEC18101
+EKRA,Ek Rate Danda,6213,Unclimbed,NA,NA,NA
+GHYN,Ghyun Himal I,6110,Unclimbed,NA,NA,NA
+GORH,Gorakh Himal,6198,Unclimbed,NA,NA,NA
+HONK,Hongku,6764,Climbed,2015,France,HONK15301
+KARK,Karko,6015,Unclimbed,NA,NA,NA
+KARS,Karsang Kang,6225,Climbed,2008,France,KARS08301
+KHAY,Khayang,6186,Unclimbed,NA,NA,NA
+GYLZ,Gyalzen Peak,6151,Climbed,2019,Nepal,GYLZ19101
+LSAM,Lungsampa,6500,Climbed,2014,Spain,NA
+MERS,Mera South,6064,Unclimbed,NA,NA,NA
+PASH,Pashuwo,6177,Unclimbed,NA,NA,NA
+SATO,Sat Peak,6164,Unclimbed,NA,NA,NA
+TSKP,Tso Karpo,6518,Unclimbed,NA,NA,NA
+SPH2,Sharphu II,6328,Climbed,201,USA,SPH218301
+SPH3,Sharphu III,6220,Unclimbed,NA,NA,NA
+SPH4,Sharphu IV,6172,Climbed,1962,Japan,SPH462101
+SPH5,Sharphu V,6158,Unclimbed,NA,NA,NA
+SPH6,Sharphu VI,6076,Unclimbed,NA,NA,NA
+MNSS,Mansail South,6248,Unclimbed,NA,NA,NA
+GDNG,Gave Ding,6581,Climbed,2015,UK,GDNG15301
+NGO3,Ngojumba Kang III,7681,Unclimbed,NA,NA,NA
+KIMS,Kimshung,6781,Unclimbed,NA,NA,NA
+PAWR,Pawar Central,6621,Climbed,2015,France,PAWR15101
+NGOR,Nagoru,6165,Climbed,2016,"Austria, Nepal",NGOR16301
+SALD,Saldim,6374,Unclimbed,NA,NA,NA
+LANY,Langtang Yubra,6048,Unclimbed,2018,"Australia, Netherands, Nepal",LANY18301
+LARK,Larkya Peak,6416,Climbed,2017,Georgia,LARK17301
+NUPW,Nuptse West II,7732,Climbed,NA,NA,NA
+TENE,Tengi Ragi Tau East,6675,Climbed,2005,France,TENE05301
+NILE,Nilgiri East,6698,Climbed,1970,Spain,NA
+PEMR,Pemthang Ri,6743,Unclimbed,NA,NA,NA
+FUTI,Futi Himal,6425,Climbed,2014,Portugal,FUTI14101
+SANB,Sano Bhrikuti,6328,Climbed,2017,Switzerland,BHRS17101
+SANK,Sano Kailash,6452,Climbed,2019,"Austria, Nepal",SANK19101
+TARS,Tarke Kang Shar,7069,Climbed,1981,"Italy, Nepal",TARS81301
+KORL,Korlang Pari Tippa,5738,Unclimbed,NA,NA,NA
+JANE,Jannu East,7460,Unclimbed,NA,NA,NA
+YUBR,Yubra,6264,Unclimbed,NA,NA,NA

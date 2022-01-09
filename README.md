@@ -2,6 +2,8 @@
 
 ## Selected Topic
 
+Himalayan Range Climbing Expeditions
+
 ## Reason for Choosing Topic
 
 Our team chose these data sets as they are extensive enough with the correct types of data to serve our analytical goals. With the data, we predict to be able to perform descriptive analysis as well as predictive analysis.

@@ -2,11 +2,12 @@
 
 ## Selected Topic
 
-Himalayan Range Climbing Expeditions
+Sponsorship Recommendations for Himalayan Range Climbers
 
 ## Reason for Choosing Topic
 
-Our team chose these data sets as they are extensive enough with the correct types of data to serve our analytical goals. With the data, we predict to be able to perform descriptive analysis as well as predictive analysis.
+The South Palm  (an outdoor apparel and equipment company) hired our analytics consulting group to assist in predicting ideal climber sponsorship candidates. Our team was able to acquire data sets for individuals, expedition team, and peaks, all within the Himalayan Range. 
+
 
 ## Data Sources 
 
@@ -17,7 +18,7 @@ Our team chose these data sets as they are extensive enough with the correct typ
 * peaks.csv
 
 
-From:  https://www.kaggle.com/
+From:  https://www.kaggle.com/majunbajun/himalayan-climbing-expeditions
 
 ### Data Description:
 
@@ -32,14 +33,16 @@ Data for peaks within the Himalayan Range. The dataset has 8 columns and 469 row
 
 ## Questions to be answered
 
-* What is the likelihood for an expedition to be successful, given certain variable values?
+In comparing the features of expedittion group size, month of climb, peak height attempted, as well as age and gender of induvidual climbers, is a potential sponsoree likely to be successful, and therefor an ideal candidate for sponsorship.
 
-* What parameters must be met for an expedition to be predicted as successful?
+For the purposes of these questions, success is defined by an induvidal summiting the attempted peak and surviving the climb.
 
-For the purposes of these questions, success is defined by the expedition summiting the attempted peak.
 
 ##  Communication Protocols 
 
 The team will communicate through Slack as well as attend class sections for instructor help and group work. Additional group time will be scheduled outside of class as needed, primarily on weekends. 
 
+## Link to Google Slide Deck
+
+https://docs.google.com/presentation/d/1bRTnpVQG-WUjvTTX9XkN1d-kavw5SEjPLEnOTBMfNOc/edit#slide=id.g10d202b0a28_0_15
 

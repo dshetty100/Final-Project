@@ -38,14 +38,11 @@ Data for peaks within the Himalayan Range.
 
 ## Questions to be answered
 
-Given a person’s age, sex, season of expedition undertaken, the number of members in the team, and the number of hired staff, we hope to predict whether the person will succeed in his/her sponsored expedition.
+Given a person’s age, sex, season of expedition undertaken, the number of members in the team, and peak height, we hope to predict whether the person will succeed in his/her sponsored expedition.
 
 For the purposes of these questions, success is defined by an induvidal summiting the attempted peak and surviving the climb.
 
 
-##  Communication Protocols 
-
-The team will communicate through Slack as well as attend class sections for instructor help and group work. Additional group time will be scheduled outside of class as needed, primarily on weekends. 
 
 ## Link to Google Slide Deck
 
@@ -53,5 +50,5 @@ https://docs.google.com/presentation/d/1bRTnpVQG-WUjvTTX9XkN1d-kavw5SEjPLEnOTBMf
 
 ## Link to Tableau Workbook
 
-https://public.tableau.com/app/profile/muru4340/viz/HimalayanExpeditionDataExploration/HimalayanExpeditionDataExploration
+https://public.tableau.com/app/profile/rachel.sirey/viz/HimExpDataExp/HimExpDataExp?publish=yes
 

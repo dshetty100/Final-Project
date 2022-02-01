@@ -101,10 +101,6 @@ The machine learning model for the dataset was built using the following algorit
 
 The choice of these algorithms were based on the type of data that we are modelling. The himalayan data is a labelled data with both input and the output given. The most appropriate approach for this kind of dataset is the supervised machine learning models. Since the data has only two class (Success and Failure), it belongs to a classification type and the above algorithms are the most suitable ones. We decided to use several supevised learning algorithms in the hope to understand and improve the model performance. Some model resulted in a modest accuracy, whereas other showed significant improvement. The limitation of some models and the benefit of others was obvious.
 
-To build the machine learning model and evaluate its performance, the data was split into training and testing set using the train_test_split function. The training set which was 80% of the data was used to train the algorithm and the remaining 20% of the data was used as a test set to predict and evaluate the model performance.
-
-To make sure that our model generalizes well to new and unseen data, we have employed Stratified K-Fold Cross Validation technique. In this approach the data is split repeatedly and multiple models are trained. The data is split such that the proportions between classes are the same in each k fold as they are in the whole dataset. This ensures a more robust way to assess generalization performance.
-
 #### 4. Model Performance Evaluation
 
 The performance of the model was evaluated using the following metrics:

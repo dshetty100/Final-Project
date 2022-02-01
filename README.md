@@ -56,11 +56,11 @@ https://public.tableau.com/app/profile/rachel.sirey/viz/HimExpDataExp/HimExpData
 
 ## Overview of the Analysis
 
-### Descriptive Analysis
+### A. Descriptive Analysis
 
 
-### Predictive Analysis
-#### Data Pre-processing
+### B. Predictive Analysis
+#### 1. Data Pre-processing
 
 The data was preprocessed for the machine learning algorithm in following steps:
 
@@ -70,7 +70,7 @@ The data was preprocessed for the machine learning algorithm in following steps:
 4. The target variable was checked for any class imbalance that could potentially affect the performance of the algorithm.
 5. The data was further processed for feature selection and engineering as furture below.
 
-#### Date exploration for feature selection and engineering
+#### 2. Date Exploration for Feature Selection and Engineering
 
 The feature engineering for the machine learning algorithm was carried out in following steps:
 
@@ -88,7 +88,7 @@ The feature selection was carried out in following steps:
 6. This resulted in a set of features that had correlation coefficient of less than 0.7 between each other.
 7. The final selected features were than used in machine learning algorithm.
 
-#### Machine learning model for the himalayan expedition data
+#### 3. Choosing Machine Learning Models
 
 The machine learning model for the dataset was built using the following algorithms:
 
@@ -105,7 +105,7 @@ To build the machine learning model and evaluate its performance, the data was s
 
 To make sure that our model generalizes well to new and unseen data, we have employed Stratified K-Fold Cross Validation technique. In this approach the data is split repeatedly and multiple models are trained. The data is split such that the proportions between classes are the same in each k fold as they are in the whole dataset. This ensures a more robust way to assess generalization performance.
 
-#### Model Performance Evaluation
+#### 4. Model Performance Evaluation
 
 The performance of the model was evaluated using the following metrics:
 

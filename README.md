@@ -25,9 +25,12 @@ From:  https://www.kaggle.com/majunbajun/himalayan-climbing-expeditions
 
 #### Data Description:
 
-The data is a compilation of records for all expeditions that have climbed in the Nepal Himalaya. 
-It is based on the expedition archives of Elizabeth Hawley, a longtime journalist based in Kathmandu, and it is supplemented 
-by information gathered from books, alpine journals and correspondence with Himalayan climbers.
+* Compilation of expedition records for the Himalayans gathered from journalism sources, books, and climber correspondence
+
+* 1905 - Spring 2019
+ 
+* Over 450 peaks
+
 
 ##### Expeditions
 Data for each expedition team attempting climbs in the Himalayan Range.

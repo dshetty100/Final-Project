@@ -65,8 +65,8 @@ Analyze trends between different variables in the dataset including: age, sex, t
   3. Success by Team size 
   4. Success by Hired Staff
   5. Count of climbs vs season
-  6. season vs success
-  7. sex vs success
+  6. Season vs success
+  7. Sex vs success
 
 Also, each of these varialbes were filtered by peak, age, and peak height to see what changes based on what peak someone climbs and how old the climber is. 
 

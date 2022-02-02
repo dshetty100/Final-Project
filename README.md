@@ -42,7 +42,7 @@ Data for peaks within the Himalayan Range.
 
 Given a person’s age, sex, season of expedition undertaken, the number of members in the team, and peak height, we hope to predict whether the person will succeed in his/her sponsored expedition.
 
-For the purposes of these questions, success is defined by an induvidal summiting the attempted peak and surviving the climb.
+For the purposes of these questions, success is defined by an individual summiting the attempted peak and surviving the climb.
 
 
 
@@ -68,7 +68,7 @@ The data was preprocessed for the machine learning algorithm in following steps:
 2. It was then stored in AWS postgres database from it was read into the machine learning code.
 3. Before treating it with the algorithm, some of the features that are redundant and not useful was dropped.
 4. The target variable was checked for any class imbalance that could potentially affect the performance of the algorithm.
-5. The data was further processed for feature selection and engineering as furture below.
+5. The data was further processed for feature selection and engineering as discussed below.
 
 #### 2. Date Exploration for Feature Selection and Engineering
 

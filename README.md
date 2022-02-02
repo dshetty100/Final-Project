@@ -25,12 +25,9 @@ From:  https://www.kaggle.com/majunbajun/himalayan-climbing-expeditions
 
 #### Data Description:
 
-* Compilation of expedition records for the Himalayans gathered from journalism sources, books, and climber correspondence
-
-* 1905 - Spring 2019
- 
-* Over 450 peaks
-
+The data is a compilation of records for all expeditions that have climbed in the Nepal Himalaya. 
+It is based on the expedition archives of Elizabeth Hawley, a longtime journalist based in Kathmandu, and it is supplemented 
+by information gathered from books, alpine journals and correspondence with Himalayan climbers.
 
 ##### Expeditions
 Data for each expedition team attempting climbs in the Himalayan Range.
@@ -112,3 +109,7 @@ The performance of the model was evaluated using the following metrics:
 2. Receiver operating characteristics (ROC) curve and the AUC score.
 
 ## Results
+The predictive analysis of the himalayan expedition data indicate that the Random Forrest machine learning algorithm comes close to 84% in predicting whether an applicant will succeed in his/her expedition. While this may not be enough for our client, South Palm, and an accuracy of over 90% would be more desirable, the current analysis can be improved by:
+
+1. Choosing a different feature selection technique, such as, the wrapper method, or the embedded method.
+2. By using feature extraction technique, such as the Principal Component Analysis (PCA).

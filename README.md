@@ -64,7 +64,7 @@ Analyze trends between different variables in the dataset including: age, sex, t
   2. Peak Height vs Success
   3. Success by Team size 
   4. Success by Hired Staff
-  5. # of climbs vs season
+  5. "#" of climbs vs season
   6. season vs success
   7. sex vs success
 

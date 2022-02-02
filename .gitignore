@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 config.py 
+=======
+#Adding config.py
+config.py
+>>>>>>> 02ffb68eb2f884d57ecfb423c3086b459b13f61f
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -129,3 +134,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#password
+config.py

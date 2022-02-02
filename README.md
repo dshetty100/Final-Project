@@ -124,11 +124,11 @@ The performance of the model was evaluated using the following metrics:
 The descriptive analysis of the data led us to determine which variables were most correlated with success and which weren't. The varialbes that most affected success rates were:
 
   1. Age
-  2. Peak  Height
+  2. Peak Height
   3. Team Size
   4. Hired Staff
 
-The varialbes that were not correlated or showed minimal effect were:
+The variables that were not correlated or showed minimal effect were:
 
   1. Season
   2. Sex

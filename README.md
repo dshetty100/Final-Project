@@ -52,11 +52,23 @@ https://docs.google.com/presentation/d/1bRTnpVQG-WUjvTTX9XkN1d-kavw5SEjPLEnOTBMf
 
 ### Link to Tableau Workbook
 
-https://public.tableau.com/app/profile/muru4340/viz/HimExpDataExp_16437668499040/Story1?publish=yes
+https://public.tableau.com/app/profile/muru4340/viz/HimExpDataExp_16437668499040/HimalayanDataAnalysis?publish=yes
 
 ## Overview of the Analysis
 
 ### A. Descriptive Analysis
+
+Analyze trends between different variables in the dataset including: age, sex, team size, # of hired staff, peak, peak height, and season to success rates. Use visualizations in tableau to get a rough idea of which variables are correlated with success and which ones have minimal to no effect on success. The following graphs/visualizations were created to aid in the process:
+
+  1. Age vs Success
+  2. Peak Height vs Success
+  3. Success by Team size 
+  4. Success by Hired Staff
+  5. # of climbs vs season
+  6. season vs success
+  7. sex vs success
+
+Also, each of these varialbes were filtered by peak, age, and peak height to see what changes based on what peak someone climbs and how old the climber is. 
 
 
 ### B. Predictive Analysis
@@ -109,6 +121,18 @@ The performance of the model was evaluated using the following metrics:
 2. Receiver operating characteristics (ROC) curve and the AUC score.
 
 ## Results
+The descriptive analysis of the data led us to determine which variables were most correlated with success and which weren't. The varialbes that most affected success rates were:
+
+  1. Age
+  2. Peak  Height
+  3. Team Size
+  4. Hired Staff
+
+The varialbes that were not correlated or showed minimal effect were:
+
+  1. Season
+  2. Sex
+
 The predictive analysis of the himalayan expedition data indicate that the Random Forrest machine learning algorithm comes close to 84% in predicting whether an applicant will succeed in his/her expedition. While this may not be enough for our client, South Palm, and an accuracy of over 90% would be more desirable, the current analysis can be improved by:
 
 1. Choosing a different feature selection technique, such as, the wrapper method, or the embedded method.
